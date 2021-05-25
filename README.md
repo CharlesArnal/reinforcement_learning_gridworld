@@ -4,4 +4,8 @@ This was done as an assignment in the context of the University of Cambridge's M
 The code for the initialization of the gridworld (the files "cliffworld.m", "gridworld.m", "smallworld.m" and "initGridworld.m") was provided by the teaching staff.
 Additional information can be found in "RL_report.pdf".
 
-![FinalPlot](https://user-images.githubusercontent.com/71833961/119511441-51b60b00-bd6a-11eb-883c-d41dc830de22.png){:height="10%" width="10%"}
+Examples of experiments can be found in the files 
+
+<img src="https://user-images.githubusercontent.com/71833961/119511441-51b60b00-bd6a-11eb-883c-d41dc830de22.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/71833961/119512300-18ca6600-bd6b-11eb-8919-82e43fc901b6.png" width="400" height="400">
+
+
